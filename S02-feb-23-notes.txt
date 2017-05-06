@@ -1,0 +1,41 @@
+GEST-H510 | Session 2
+
+Reminders on S1 - Components of Entreprise Architecture
+- Business Processes
+- Information
+- Services
+- Applications (payment mgmt, inventory mgmt, etc)
+- Infrastructure (on-site or cloud-based storage)
+
+Build & Run Activities
+- Build include projects, software development, etc
+- Run include help desks, etc
+
+Sub-Departments of IT (on avg, 5% of companies' budget, increasing)
+- Data mgmt
+- Security
+- Software development
+- Projects
+- IT HR (specific HR for specific skills)
+- Help desk
+- IT finance
+- Technical services, infrastructure, operations, etc
+
+Business and IT Pain Points
+- Business Pain Points
+	- Business Process Outsourcing: pain because lack of supervision
+	- Innovation Process: where to start? How to identify some company's abilities, etc? Meetings, brainstormings -> identify IT related pain points and trigger events (positive opportunities)
+
+An Organisation Has a Structure
+
+Definition of Architecture
+- "The structure of components, their relationships, and the principles and guidelines governing their design and evolution over time"
+- Entreprise architects
+- IT architects (with different flavours: information, software, infrastructure, etc)
+
+How Do Architectures Get Designed
+- Example of the Winchester house (which is visual, yet an application's architecture is trickier to judge)
+- Without a plan, IT and business projects stack on top of each other and the organisation becomes silo-ed
+
+
+Standardisation and Integration
