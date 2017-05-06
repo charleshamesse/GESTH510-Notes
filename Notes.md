@@ -162,12 +162,70 @@ The role of the CIO changes as organizations move through the stages
 
 ### 2.4 Conclusions- Enterprise architecture is the organizing logic for the foundation of the organization: work processes and IT systems- In most organizations, architecture is hindering execution and preventing innovation- Defining the operating model is the first step in choosing the right architecture for an organization- Transforming architecture is a difficult and time-consuming process, but the benefits begin immediately
 
+## 3. Gouvernance and cascading strategy
+
+Objectives: 
+
+- understand what is Governance of Enterprise IT 
+- know what COBIT is and it can support good governance
+- understand the COBIT process map- understand the Business/IT Goals cascade mechanism, and be able to use it
+
+Simply stated, COBIT 5 helps enterprises create optimal value from IT by maintaining a balance between realising benefits and optimising risk levels and resource use.
+
+### 3.1 COBIT principles
+
+1. Meeting stakeholders needs
+2. Covering the entreprise end-to-end:
+
+	COBIT 5 addresses all the relevant internal and external IT services, as well as internal and external business processes.)
+
+3. Applying a single integrated framework
+4. Enabling a holistic (global) approach - the enablers*
+
+	Any enterprise must always consider an interconnectedset of enablers (capabilities, forces, and resources that contribute to the success of an entity, program, or project). That is, each enabler:	- Needs the input of other enablers to be fullyeffective, e.g., processes need information, organisational structures need skills and behaviour.	- Delivers output to the benefit of other enablers, e.g., processes deliver information, skills and behaviour make processes efficient.
+
+5. Separating governance from management**
+
+	Governance ensures that stakeholders needs, conditions and options are evaluated to determine balanced, agreed-on enterprise objectives to be achieved; setting direction through prioritisation and decision making; and monitoring performance and compliance against agreed-on direction and objectives (EDM).• Management plans, builds, runs and monitors activities in alignment with the direction set by the governance body to achieve the enterprise objectives (PBRM).
+
+**Quizz** (with my answer attempts):
+
+1. Governance is about negotiating and deciding amongst different stakeholders’ value interests. **True**2.  Creating value for a stakeholder means delivering benefits at the lowest cost possible. **False**3.  Management sets the direction for the Company. **False**4.  Once a Company uses COBIT, it should not use ITIL or PII anymore (T/F) **True**5.  The enablers are a set of independent topics **False**
+
+### 3.2 COBIT processes
+
+>See COBIT reference for process. Processes are enablers.
+
+Example attributes: Process identification, description, purpose statement, IT related goals and metrics, process goals and metrics, etc.
+
+**Quizz** (with my answer attempts):
+1.  IT Goals metrics are generic. **False**2.  Process goals are generic. **False**
+3.  There is more Governance processes than Management processes. **True**4.  To which Domain belong “Manage requirements” – “Manage suppliers” ? “Manage continuity” ? “Manage service agreements” ? “Ensure resource optimization” ? **Management (?)**5.  In the process model, governance and management activities are distinct, and there is no output of one that serves as input for the other. **False**6.  RACI charts maps to internal and external stakeholders. **False**
+7.  Processes are broken down in Governance practices, which are broken down in activities (T/F) **Processes > Management practices > Activities**8.  Process goals are defined as ‘a statement describing the desired outcome of a process’. An outcome must be a tangible artefact. **False, can be high-level description / vision**9.  Inputs and Outputs are defined at the level of activities. **True (?)**
+10.  The COBIT5 Process Reference Model is prescriptive. **False (?)**
 
 
+### 3.3 Business / IT goal cascade
 
 
+Back on COBIT principles:
+
+1. Meeting stakeholders needs
+	- Stakeholder needs have to be transformed into an enterprise’s pracCcal strategy. 	- The COBIT 5 goals cascade translates stakeholder needs into specific, pracCcal and customised goals within the context of the enterprise, IT-related goals and enabler goals.
 
 
+>See fancy charts in the slides for information on how to map Enterprise Goals with IT Goals, then IT Goals and IT processes.
+
+
+Inpractice, the goals cascade:
+-  Defines relevant and tangible goals and objecCves at various levels of responsibility.-  Filters the knowledge base of COBIT 5, based on enterprise goals to extract relevant guidance for inclusion in specific implementaCon, improvement or assurance projects.
+-  Clearly identifies and communicates how (sometimes very operaConal) enablers are important to achieve enterprise goals.
+
+**Quiz** (with my answer attemps):
+
+1. To which COBIT principle belongs the goal cascading mechanism? **2. Covering the entreprise e2e or 4. Applying a holistic approach**2.  Each process is mapped towards one or several Enterprise Goals. **False. Processes are mapped to IT goals which are themselves related to Entreprise goals**.
+
+> See the exercise on bpost strategy
 
 
 
