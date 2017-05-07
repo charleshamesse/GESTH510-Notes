@@ -228,4 +228,113 @@ Inpractice, the goals cascade:
 > See the exercise on bpost strategy
 
 
+## 6. Système d'Information Transeuropéen
 
+Intégration de systèmes à grande échelle ouConstruire l'Europe du partage de données
+
+### 6.1 Contexte
+Pourquoi des SI Transeuropéen ? Pour partager des informations entre de nombreux acteurs différents.
+
+ Un SI Transeuropéen est un système de systèmes répartis dans toute l'UE dont le but est de partager des données afin d'atteindre des objectifs politiques ou opérationnels.
+### 6.2 Exposé du problème
+
+- Complexité organisationnelle et décisionnelle: aspects politique, stratégique et opérationnel.
+- Intervenants: insitutions, EM, pays tiers, entreprises- Interfaces- Processus de Décision: comités de décision- Diversité d'Environnements Informatiques: harmonisation inenvisageable
+- Diversité d'Organisations: hiérarchies, stratégies de sous-traitance, méthodologies, politiques de sécurité
+
+*"Le SIT est aussi manoeuvrable qu'un super tanker."*
+
+### 6.3 Principes de solution
+
+- Décision: minimiser les changements
+- Organisation: subsidiarité (action revient à l'entité compétente la plus proche de ceux qui en sont directement concernés)- Diversité: implémentation d'**interfaces** techniques, organisationnelles et de sécurité.
+### 6.4 Domaines de responsabilité
+
+- Subsidiarité: cohérence d'ensemble non garantie, responsabilité aux interfaces non définie- Domaine Commun- Domaine National 
+- Domaine Externe
+
+Pour tous les domaines:
+
+- Chacun est maître chez lui- Chaque fournisseur	- coordonne	- définit ses interfaces avec ses clients
+### 6.5 Gestion de projet
+
+Chacun gère son propre plan et communique les "points de rendez-vous". La COM (Commission Européenne) consolide le plan du Domaine Commun et chaque EM consolide le plan de son Domaine National.
+
+Les clés de réussite sont l'organisation, la gestion de projet et surtout le facteur humain.
+### 6.6 Architecture
+
+/
+### 6.7 Interopérabilité
+
+Le but est de spécifier les interfaces. On parle de spécifications système (business, techniques et tests), de sécurité et organisationnelles.
+
+Pour interopérer, il nous faut spécifier des interfaces, plein d'interfaces, produisant une grande quantité de documents selon la complexité du SIT.Réutiliser un cadre existant réduit coût et délai
+
+### 6.8 Conclusions
+Un SI transeuropéen, c'est:- intégré avec des milliers d'êtres humains- respectueux de la diversité- international et multiculturel- varié et concret- passionnant- une expérience fantastique et enrichissante
+### 6.10 Annexes et backup
+
+/
+
+## 10. Certification of application security
+
+Learning objectives
+
+- Introduce a new paradigm to build and verify software security based on new ISO/IEC Standard- Understand how to create a Security Design pattern which can be tracked through the development process- Describe methods to certify application security through the review of Application Security Controls (ASC)
+
+
+### 10.1 Introduction 
+
+**Definitions**
+
+- Information security: Preservation of confidentiality, integrity and availability of information
+
+- Validation: The assurance that a product, service, or system meets the needs of the customer and other identified stakeholders
+
+-	Verification: The evaluation of whether or not a product, service, or system complies with a regulation, requirement, specification, or imposed condition. It is often an internal process
+
+- Audit: Systematic, independent and documented process for obtaining audit evidence [records, statements of fact or other information which are relevant and verifiable] and evaluating it objectively to determine the extent to which the audit criteria [set of policies, procedures or requirements] are fulfilled
+
+**Scenario**Phases:
+
+1. Requirements
+2. Design
+3. Implementation
+4. Verification
+5. Release (including server hardening: firewalls etc)
+
+Security is critical for organizations. Some questions arise:
+
+- Can we trust third parties framework used inside our applications ?- Can we use logs or other evidences in front of court in case of security incident ?- Can we assure the board that everything is under control ?
+- Do we effectively respect Data privacy of our clients ?- Could we prove our PCI-DSS* compliance ?
+
+*: PCI-DSS is required for interacting with VISA.Principle: what cannot be measured cannot be managed.
+Need to create trut between business and IT, security software must be assessed with evidences.
+**ISO 27034 principles:**
+1. Security is a requirement2. Application security should be managed3. Application security is context-dependent4. Appropriate investment for application security 
+5. Application security must be demonstrated### 10.2 Certifying security inside an application
+**Phase 1: Risk Assessment**
+
+1. Where do risks come from? (in terms of people, processes, technology)
+2. Determine risks, security requirements and level of trust
+
+Example: security during transmission: low (http), medium (https), high (https + data encryption).
+
+Security control (control in the sense of device, tool) "controls" the required level of trust and the security requirements.
+
+> See slide 26 for examples of security controls**Phase 2: Application Security Controls**
+
+Objectives:
+
+1. Security Design Pattern (Knowledge documentation) 
+	
+	Security activities -> evidence -> verification process -> verification outcome
+2. Translate the Security Requirements into a concrete set of tasks
+	Risk -> security requirement -> task with some time and some cost3. Use by the project to implement a Security Control4. Use by the business to estimate the cost5. Use by the project manager to estimate the time6. Use by the quality manager to verify the implementation7. Use by the auditor to certify the application8. Improve the organization's Application Security Maturity
+What are the advantages of the Application Security Life Cycle Model ?
+
+- Create a Helicopter view of different disciplines under the scope of Application Security- Allow to identify what are missing areas within the organization- Allow different disciplines to communicate in an effective way- Allow to choose the right place for an Application Security Control
+### 10.3  ConclusionIn 2016, Application Security cannot be a feeling:
+
+- A security control cannot be taken in account if there is no evidence it fulfills his purpose.
+- It provides a way to demonstrate that an application reaches a specific level of trust within the organization.- It provides a way to evaluate the application security cost.
