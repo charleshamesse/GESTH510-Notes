@@ -253,9 +253,9 @@ Example attributes: Process identification, description, purpose statement, IT r
 
 **Quizz** (with my answer attempts):
 
-1.  IT Goals metrics are generic. **False**
+1.  IT Goals metrics are generic. **False** [edit Gilles: I would say True (in Cobbit framework appendice C they state *all 17 generic IT-related goals ...*)
 2.  Process goals are generic. **False**
-3.  There is more Governance processes than Management processes. **True**
+3.  There is more Governance processes than Management processes. **False**  (see slide 16: 5 Governance process against 32 Managment) 
 4.  To which Domain belong “Manage requirements” – “Manage suppliers” ? “Manage continuity” ? “Manage service agreements” ? “Ensure resource optimization” ? **Management (?)**
 5.  In the process model, governance and management activities are distinct, and there is no output of one that serves as input for the other. **False**
 6.  RACI charts maps to internal and external stakeholders. **False**
