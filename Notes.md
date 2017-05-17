@@ -272,11 +272,11 @@ Example attributes: Process identification, description, purpose statement, IT r
 3.  There is more Governance processes than Management processes. **False**  (see slide 16: 5 Governance process against 32 Managment) 
 4.  To which Domain belong “Manage requirements” – “Manage suppliers” ? “Manage continuity” ? “Manage service agreements” ? “Ensure resource optimization” ? **Management (?)**
 5.  In the process model, governance and management activities are distinct, and there is no output of one that serves as input for the other. **False**
-6.  RACI charts maps to internal and external stakeholders. **False**
-7.  Processes are broken down in Governance practices, which are broken down in activities (T/F) **Processes > Management practices > Activities**
-8.  Process goals are defined as ‘a statement describing the desired outcome of a process’. An outcome must be a tangible artefact. **False, can be high-level description / vision**
-9.  Inputs and Outputs are defined at the level of activities. **True (?)**
-10.  The COBIT5 Process Reference Model is prescriptive. **False (?)**
+6.  RACI charts maps to internal and external stakeholders. **False** Edit: true, C stands for consulted, I for informed
+7.  Processes are broken down in Governance practices, which are broken down in activities (T/F) **False** It is: Processes > Management practices > Activities**
+8.  Process goals are defined as ‘a statement describing the desired outcome of a process’. An outcome must be a tangible artefact. **False** Can be high-level description / vision**
+9.  Inputs and Outputs are defined at the level of activities. **False** see slide 18
+10.  The COBIT5 Process Reference Model is prescriptive. **False**: It's a set of best practices
 
 
 ### 3.3 Business / IT goal cascade
@@ -299,7 +299,7 @@ Inpractice, the goals cascade:
 -  Clearly identifies and communicates how (sometimes very operaConal) enablers are important to achieve enterprise goals.
 
 **Quiz** (with my answer attemps):
-https://soundcloud.com/professorkliq
+
 1. To which COBIT principle belongs the goal cascading mechanism? **2. Covering the entreprise e2e or 4. Applying a holistic approach**
 2.  Each process is mapped towards one or several Enterprise Goals. **False. Processes are mapped to IT goals which are themselves related to Entreprise goals**.
 
@@ -316,6 +316,50 @@ Il y a 5 étapes au project management.
 
 
 ## 5. Information systems
+
+### 5.1 In global business today
+**How are IS transforming business**
+
+- Role
+- Emerging digital firm
+
+**Why so essential**
+
+- Interdep /b/ organizations and IS (op excellence, new products, customer and supplier intimacy, improved decision making, competitive advantage, survival)
+
+**What is an IS**
+
+Set of interrelated components• Collect, process, store, and distribute information• Support decision making, coordination, and control
+
+Information vs. data• Data are streams of raw facts.• Information is data shaped into meaningful form.
+
+IS transform data into information: input, processing, output
+
+**Complementary assets**
+
+nothing to say
+
+### 5.2 Global e-business and collaboration
+
+**What are business processes**
+Business processes:• Flows of material, information, knowledge• Sets of activities, steps• May be tied to functional area or be cross-functional• Businesses: Can be seen as collection of business processes 
+• Business processes may be assets or liabilities
+
+Examples of functional business processes • Manufacturing and production• Assembling the product• Sales and marketing• Identifying customers• Finance and accounting• Creating financial statements • Human resources• Hiring employees
+
+**Types of Information Systems**
+Four major Types of Systems :1. Transaction Processing Systems (TPS)2. Management Information Systems (MIS) 3. Decision Support Systems (DSS)4. Executive Support Systems (ESS)
+
+**Linking the Entreprise**• Enterprise applications
+
+Supply Chain Management (SCM) Systems• Manage firm’s relationships with suppliers 
+• Share information about:• Orders, production, inventory levels, delivery of products and services • Goal:• Right amount of products to destination with least amount of time and lowest cost
+
+
+Customer Relationship Management (CRM) Systems• Provide information to coordinate all of the business processes that deal with customers• Sales• Marketing• Customer service• Helps firms identify, attract, and retain most profitable customers • https://goo.gl/rJn1dV
+
+
+Knowledge Management  Systems (KMS)• Support processes for capturing and applying knowledge and expertise• How to create, produce, deliver products and services• Collect internal knowledge and experience within firm and make it available to employees• Link to external sources of knowledge
 
 
 ## 6. Système d'Information Transeuropéen
@@ -398,6 +442,59 @@ Un SI transeuropéen, c'est:
 
 ## 8. IT Value management
 
+
+### 8.1 What is IT Value?
+IT Value..:
+
+- has value if it has value to the business
+- has costs misunderstood by many business managers
+
+To maximize IT Value, it should:
+
+- be connected to strategy and linked down to assets
+- avoid "the disconnect" (internal communication is key)
+- be set up in the right framework  (e.g. Val IT, 3 domaines, 22 processes, 69 key mgmt practices)
+- be deployed with the right gouvernance
+
+### 8.2 What are the IT costs?
+
+The money has to cover costs of (people, software, hardware) x (acquire, maintan)
+
+Acquire: 
+
+- acquire: need a business case
+- sourcing: need a strategy
+- balance: change & run strategy to meet needs
+
+Maintain:
+
+- monitor
+- control
+- rebill (recharche real & fair costs to users)
+- des-invest: get rid of poorly used products/services
+
+### 8.3 IT investement decision
+
+Business case: address 5 key questions:
+
+1. compelling (relevant) case for change
+2. does it optimise value for money?
+3. is the deal commercially viable?
+4. spending affordable?
+5. is the proposal deliverable?
+
+
+8 steps of business case building: see slide 22
+
+
+### 8.4 How to charge IT costs to clients
+
+Budget -> cost model -> services
+Assets -> services
+
+IT recharges all its costs to its (internal & external) ‘clients / users’. Modelling
+costs starts from assets to derive cost of services. Recharging fairly reallocates
+usage of services to ‘clients / users’
 
 ## 9. Digital agility
 
