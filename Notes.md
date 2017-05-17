@@ -482,3 +482,30 @@ In 2016, Application Security cannot be a feeling:
 
 
 ## 11. IT Sourcing 101
+### 11.1 
+IT Strategy Sourcing - activity to match pro-active and in the long term supply of resource capacity towards the business demands and evolution.
+**Dimensions of IT Sourcing**:
+
+ - Type of delivery dimension: Internal Employees, Time and Material Contractors, Fixed Price Delivery, Managed Service.
+ - Geographical dimension: Onsite, Near Shore, Offshore, Onsite-Offshore. (Define architecture onsite and not offshore)
+ - Type of relation dimension: (TEACHER SAID NOT IMPORTANT)
+ 
+**IT Sourcing Value Chain**:
+Define Sourcing Strategy -> Define Vendor Strategy -> Perform Partner Selection -> Define Contract -> Transition & Transformation -> Manage Partnership->Strategy
+### 11.2 Defining IT Sorucing strategy
+Define a picture of the company today and one in more than 5 years, manipulate variables to see to get the best result. You can play on :
+
+ - Internal Resources: skills, age and turnover of employees.
+ - External Resources: type, vendors, skills, expenses.
+ - Expenses: Software, Hardware, Maintenance etc..
+For example you might notice that all your JAVA senior engineers will be retired and you will have to repalce them; or in case you have 10 developers and only 2 testers which might create a bottleneck. When you chose the strategy focus on quality, flexibility, sustainability and not the present value price, beacause it might cost you more in a long term maintenance.
+
+ > See slide 13 for all possible mixes for sourcing strategy.
+ 
+ ### 11.3 Deining vendor Strategy
+ Risk based approach for outsourcing model PEST, taking into account all aspects of the country you outsource to:
+ 
+  - Political 
+  - Economical 
+  - Social 
+  - Technological 
