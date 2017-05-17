@@ -224,12 +224,17 @@ Simply stated, COBIT 5 helps enterprises create optimal value from IT by maintai
 
 ### 3.1 COBIT principles
 
-1. Meeting stakeholders needs
+1. Meeting stakeholders needs:
+
+	Value creation: risk minimization, benefits realisation
+	
 2. Covering the entreprise end-to-end:
 
 	COBIT 5 addresses all the relevant internal and external IT services, as well as internal and external business processes.)
 
-3. Applying a single integrated framework
+3. Applying a single integrated framework:
+
+	
 4. Enabling a holistic (global) approach - the enablers*
 
 	Any enterprise must always consider an interconnected
@@ -255,6 +260,8 @@ effective, e.g., processes need information, organisational structures need skil
 ### 3.2 COBIT processes
 
 >See COBIT reference for process. Processes are enablers.
+
+Note: RACI stands for Reponsible, Accountable, Consulted, Informed.
 
 Example attributes: Process identification, description, purpose statement, IT related goals and metrics, process goals and metrics, etc.
 
