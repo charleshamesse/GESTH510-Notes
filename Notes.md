@@ -291,7 +291,15 @@ https://soundcloud.com/professorkliq
 
 > See the exercise on bpost strategy
 
-## 4.
+## 4. Project Management (We don't have the slides )
+
+Il y a 5 étapes au project management.
+- 1 I - Initiate (Scope  Brainstorm or Mece  Project charter)
+- 2 P - Planning. you have 10 identical projects with 1M budget. Let’s imagine that you have 10% less. What would you do? Good answer : cancel a project. Not reducing 10% on every project.
+- 3 E - Execution 
+- 4 M C - Monitor and Control  Quality ? Right budget ? In the right time ?
+- 5 C - Closing (post-mortem analysis and lesson learned)
+
 
 ## 5. Information systems
 
