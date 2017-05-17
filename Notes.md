@@ -43,7 +43,7 @@ Program management and agility
 - No track record in innovation
 - Standards seen as non-commercial
 
-**Waterfall model:** big design up front
+**Waterfall model:** big design up front (requirements, design, implementation, verification, maintenance)
 
 **Agility:** ability of firms to sense environmental changes and react to them in a timely and readily manner
 
@@ -73,13 +73,20 @@ From aspirational through achievable to specific & tangible:
 - Strategic objectives: how are we going to progress?
 - Actions and KPI (Key Performance Indicator): what do we have to do?
 
+Linkages between businesses and IT strategies and operations:
+
+- IT should suit businesses and avoid useless work
+- Managers must define clear good strategy and quality objectives
+- IT must execute the right operations
+- IT strategy can be translated to IT operations
+
 ### 1.4 Key concepts and major landmarks in IT governance research
 
 IT governance is the responsibility of the board of directors and executive management.
 
 It is an integral part of enterprise governance and consists of the leadership and organisational structures and processes that ensure that the organisation's IT sustains and extends the organisation's strategies and objectives.
 
-Goal cascade method: from management questions, to entreprise goals, to IT goals, to IT processes.
+Goal cascade method: **from management questions, to entreprise goals, to IT goals, to IT processes.**
 
 **Case study 1:**
 Seven years after the merge of two commercial banks, both organizations continued to possess two parallel data centers with virtually two IT Departments.
