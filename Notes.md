@@ -523,6 +523,7 @@ Mostly sourcing maangement fails not on the planning but on actual implementatio
 The T&T is executed as a project, backed up with a contract. It has for a goal to describe all the aspects of the transition between the states of today and the one in few years. The sequence of processes may be configured in many different waysy, however if your strategy fails, fix it or change to the new one as fast as possible.
 
  > See slide 24 for T&T sequence timeline 
+ 
 As example, first you may prepare for the transition by transfering knowledge: Preparation, Shadowing (new guys observe workflow of the previous team), Reverse Shadowing(Previous eployees observe hwo new ones perform and correct them). Meanwhile the company may proceed to redeploy old staff to another companies or different positions, which will motivate them for the knowledge transfer.
 ### 11.6 Manage Partnership with the supplier
 During the partnership establish the benchmarks to monitor the quality. As said previously the quality has to be of primary concern, it should drive the strategy to establish a long term sustainable and profitable porject (if you woul dbe driven on ly by net present value, cash - it will not give the best output in the end). Establish a periodic feedback mettings to improve the quality of the partnership and the service.
