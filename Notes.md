@@ -285,7 +285,7 @@ Inpractice, the goals cascade:
 -  Clearly identifies and communicates how (sometimes very operaConal) enablers are important to achieve enterprise goals.
 
 **Quiz** (with my answer attemps):
-
+https://soundcloud.com/professorkliq
 1. To which COBIT principle belongs the goal cascading mechanism? **2. Covering the entreprise e2e or 4. Applying a holistic approach**
 2.  Each process is mapped towards one or several Enterprise Goals. **False. Processes are mapped to IT goals which are themselves related to Entreprise goals**.
 
@@ -502,10 +502,27 @@ For example you might notice that all your JAVA senior engineers will be retired
 
  > See slide 13 for all possible mixes for sourcing strategy.
  
- ### 11.3 Deining vendor Strategy
- Risk based approach for outsourcing model PEST, taking into account all aspects of the country you outsource to:
+ ### 11.3 Defining vendor Strategy
+ When you have consider outsourcing strategy a risk based approach based on PEST pillars should be considered:
  
   - Political 
   - Economical 
   - Social 
   - Technological 
+These are the aspects to check on the country you outsource to.
+### 11.4 Defining the contract
+If I remeber well this will be the question for exam, correct me if I am wrong. Gathering the points that could be represented in a contract. Everything has to be well described in the contract, the roles of each agent and his responsabilities.
+
+ > See slide 19 for contract framework
+### 11.5 Transformation and Transition
+Mostly sourcing maangement fails not on the planning but on actual implementation. As example, while outsoourcing, before laying out employees you have to find the right ocntext to perform the transition, and perform knowledge transfer from them to the new team. There are three possible flows for transition and transformation: 
+
+- Externalization: outsourcing to the suppliers.
+- Internalization: transfering sources from supliers to the company itself.
+- Change of supplier
+The T&T is executed as a project, backed up with a contract. It has for a goal to describe all the aspects of the transition between the states of today and the one in few years. The sequence of processes may be configured in many different waysy, however if your strategy fails, fix it or change to the new one as fast as possible.
+
+ > See slide 24 for T&T sequence timeline 
+As example, first you may prepare for the transition by transfering knowledge: Preparation, Shadowing (new guys observe workflow of the previous team), Reverse Shadowing(Previous eployees observe hwo new ones perform and correct them). Meanwhile the company may proceed to redeploy old staff to another companies or different positions, which will motivate them for the knowledge transfer.
+### 11.6 Manage Partnership with the supplier
+During the partnership establish the benchmarks to monitor the quality. As said previously the quality has to be of primary concern, it should drive the strategy to establish a long term sustainable and profitable porject (if you woul dbe driven on ly by net present value, cash - it will not give the best output in the end). Establish a periodic feedback mettings to improve the quality of the partnership and the service.
